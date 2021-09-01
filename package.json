@@ -1,0 +1,27 @@
+{
+  "name": "SiteBruaca",
+  "version": "1.0.0",
+  "description": "SiteBruaca",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel-node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Gabriel-Salomao/SiteBruaca.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao-Gabriel-Salomao/SiteBruaca/issues"
+  },
+  "homepage": "https://github.com/Joao-Gabriel-Salomao/SiteBruaca#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
